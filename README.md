@@ -35,3 +35,11 @@ A guide for (Non)-IT beginners to become a DevOps
 ](https://www.youtube.com/watch?v=Qx_vGdnBqeE)
 
 ## Technical
+
+* Working with VM
+  * Install Hypervisor [Type 2]
+    * [Install VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+    * Or [Install VMware Workstation](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
+  * Install OS
+    * [Install linux (Ubuntu)](https://www.youtube.com/watch?v=QbmRXJJKsvs)
+    * [Install Windows](https://www.youtube.com/watch?v=JT8EXoobjSc)
