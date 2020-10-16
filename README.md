@@ -43,3 +43,10 @@ A guide for (Non)-IT beginners to become a DevOps
   * Install OS
     * [Install linux (Ubuntu)](https://www.youtube.com/watch?v=QbmRXJJKsvs)
     * [Install Windows](https://www.youtube.com/watch?v=JT8EXoobjSc)
+* Working wtih Container
+  * Docker
+    * [Docker for beginner](https://www.youtube.com/watch?v=i7ABlHngi1Q)
+    * [Official Doc](https://docs.docker.com/get-docker/)
+    * Additional information
+      * [Docker for Beginners: Full Free Course!](https://www.youtube.com/watch?v=zJ6WbK9zFpI)
+      * [Get statred with Docker](https://docs.docker.com/get-started/)
