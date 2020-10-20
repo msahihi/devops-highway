@@ -43,6 +43,10 @@ A guide for (Non)-IT beginners to become a DevOps
   * Install OS
     * [Install linux (Ubuntu)](https://www.youtube.com/watch?v=QbmRXJJKsvs)
     * [Install Windows](https://www.youtube.com/watch?v=JT8EXoobjSc)
+  * Create VM in Cloud Providers
+    * [Create VM in AWS](https://www.youtube.com/watch?v=N_mP4mIqK8A)
+    * [Create VM in Azure](https://www.youtube.com/watch?v=tg3FrNtUMdU)
+    * [Create VM in GCP](https://www.youtube.com/watch?v=RmH6-OUGf04)
 * Working wtih Container
   * Docker
     * [Docker for beginner](https://www.youtube.com/watch?v=i7ABlHngi1Q)
